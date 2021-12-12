@@ -1,4 +1,4 @@
-### Advent of Code 2021 Solutions
+## Advent of Code 2021 Solutions
 
 Here I'll be updating my [**Advent Of Code 2021**](https://adventofcode.com/) event solutions. I'm solving each daily challenge using an ipython Noteebok, saved the first days, wich I naively tried to solve using C. 
 
@@ -12,8 +12,6 @@ Here I'll be updating my [**Advent Of Code 2021**](https://adventofcode.com/) ev
 - Caves
 - Chunks
 - Faulty Navigation Systems
-
-
 
 <style>
 .calendar .calendar-color-w4 { color:#0091cc; }
