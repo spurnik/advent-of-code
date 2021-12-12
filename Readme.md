@@ -1,6 +1,6 @@
 ## Advent of Code 2021 Solutions
 
-Here I'll be updating my [**Advent Of Code 2021**](https://adventofcode.com/) event solutions. I'm solving each daily challenge using an ipython Noteebok, saved the first days, wich I naively tried to solve using C. 
+Here I'll be updating my [**Advent Of Code 2021**](https://adventofcode.com/) event solutions. I'm solving each daily challenge using an ipython Noteebok, except for the first few days, wich I naively used C. 
 
 **Topics covered so far:**
 
