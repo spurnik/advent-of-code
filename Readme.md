@@ -12,3 +12,4 @@ Here I'll be updating my [**Advent Of Code 2021**](https://adventofcode.com/) ev
 - Caves
 - Chunks
 - Faulty Navigation Systems
+- SnailFish Maths (really hard)
